@@ -54,6 +54,8 @@
   "gamesettings.size.tiles": "{0} karelik harita.",
   "gamesettings.size.normal": "Normal",
   "gamesettings.size.large": "Büyük",
+  "gamesettings.size.huge": "Kocaman",
+  "gamesettings.size.massive": "Devasa",
   "gamesettings.size.disabled": "Mevcut değil",
   "gamesettings.size": "Harita Büyüklüğü",
   "gamesettings.players": "Oyuncular",
