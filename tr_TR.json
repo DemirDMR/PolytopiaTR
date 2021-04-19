@@ -113,7 +113,7 @@
   "gamemode.domination": "Hakimiyet",
   "gamemode.custom.caps": "YARATICI",
   "gamemode.custom": "Yaratıcı",
-  "gamemode.custom.description": "Kendi oyununu kur ve istediğin şekilde oyna.",
+  "gamemode.custom.description.button": "Kendi oyununu kur ve istediğin şekilde oyna.",
   "gamemode.sandbox": "Sonsuz",
   "gamemode.sandbox.description": "İstediğin şekilde, sonsuza dek oyna",
   "gamemode.death": "Son şehrin de yıkıldı, kaybettin.",
